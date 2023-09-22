@@ -7,6 +7,9 @@
   "scripts": {
     "start": "nodemon index"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -20,3 +23,4 @@
     "openai": "^4.7.1"
   }
 }
+
